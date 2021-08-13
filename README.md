@@ -69,7 +69,7 @@ Onde receberemos cadastros de títulos(filmes e séries) referenciando cada est�
 
 ### Requisitos 
 
-<img src="https://media2.giphy.com/media/jy1SVg3HaRrT2tmnaE/giphy.gif" width="150">
+<img src="https://acegif.com/wp-content/uploads/cat-typing-24.gif" width="150">
 
 - [x] **"/titulos/marvel"** Deverá retornar todos os títulos com o estúdio Marvel
 
