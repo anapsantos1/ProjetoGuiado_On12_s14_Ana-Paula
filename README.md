@@ -332,6 +332,9 @@ Onde receberemos cadastros de títulos(filmes e séries) referenciando cada est�
 <br>
 <br>
 
+### Um pouquinho do resultado
+
+<img src="https://acegif.com/wp-content/uploads/cat-typing-24.gif" width="150">
 
 
 _______________________________________________________________________________
