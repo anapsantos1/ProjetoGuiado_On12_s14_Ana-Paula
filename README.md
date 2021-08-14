@@ -334,7 +334,7 @@ Onde receberemos cadastros de títulos(filmes e séries) referenciando cada est�
 
 ### Um pouquinho do resultado
 
-<img src="https://acegif.com/wp-content/uploads/cat-typing-24.gif" width="150">
+<img src="https://github.com/anapsantos1/ProjetoGuiado_On12_s14_Ana-Paula/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true">
 
 
 _______________________________________________________________________________
